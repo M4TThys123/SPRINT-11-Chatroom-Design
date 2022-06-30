@@ -1,10 +1,9 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Chat ontwerpen
+# 📲 Connect the People - Chat ontwerpen
 
 ## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
 
 ## Schetsen, Figma/XD of CSS?
+
 
 
 ## Licentie
