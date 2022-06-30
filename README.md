@@ -5,9 +5,9 @@ Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op bas
 Vervolgens ben ik op basis van al die bronnen gaan schetsen op papier.
 ### Zero State schets
 ![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/schets1.jpg)
-Op deze schets heb ik mij laten inspireren door het chat systeem van Instagram, hierbij is het mogelijk om te chatten met meerder personen tergleikertijd. Voor de opdrachtgever is het nodig om 1 op 1 live te kunnen chatten. 
+Op deze schets heb ik mij laten inspireren door het chat systeem van Instagram, hierbij is het mogelijk om te chatten met meerdere personen tegelijkertijd. Voor de opdrachtgever is het nodig om 1 op 1 live te kunnen chatten. 
 
-### Breakdonwn schets
+### Breakdown schets
 ![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/breakdown.JPG)
 Op deze versie heb geprobeerd mijn code te schetsen, hierdoor kan ik gemakkelijk & snel mijn code schrijven.
 
@@ -30,8 +30,8 @@ In  ```Versie 6``` heb ik geëxperimenteerd met layout & compositie, door middel
 
 ### VERSIE 7 & 8
 ![afbeelding Schets 7 & 8](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel4.png)
-In  ```Versie 7``` heb ik geëxperimenteerd met een online functie.
-In  ```Versie 8``` heb ik geëxperimenteerd met aan het typen functie.
+In  ```Versie 7``` heb ik geëxperimenteerd met een 'online' functie.
+In  ```Versie 8``` heb ik geëxperimenteerd met de 'aan het typen' functie.
 
 ### VERSIE 9 & 10
 ![afbeelding Schets 9 & 10](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel5.png)
