@@ -7,7 +7,7 @@ Vervolgens ben ik op basis van all die bronnen gaan schetsen op papier.
 
 ## 🖥 Adobe XD Schetsen
 ### Schets 1 & 2
-![afbeelding Schets 1 & 2](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel1.png)
+![afbeelding Schets 1 & 2](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel1v2.png)
 
 
 ### Schets 3 & 4
