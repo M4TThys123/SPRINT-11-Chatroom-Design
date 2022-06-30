@@ -18,6 +18,8 @@ Op deze versie heb geprobeerd mijn code te schetsen, hierdoor kan ik gemakkelijk
 In  ```Versie 1``` heb ik geprobeerd om mij breakdown schets in XD te maken.
 In  ```Versie 2``` heb ik geëxperimenteerd met hiërarchie, door middel van kleur.
 
+<hr>
+
 ### VERSIE 3 & 4
 ![afbeelding Schets 3 & 4](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel2.png)
 In  ```Versie 3``` heb ik geëxperimenteerd met hiërarchie, door middel van uitlijning.
