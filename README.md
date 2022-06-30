@@ -1,5 +1,5 @@
 # 📲 Connect the People - Chat ontwerpen
-Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op basis van de huisstijl van de opdrachtgever: Coding the Curbs. Eerst ben ik op andere websites inspiratie gaan zoeken, ik heb hiervoor gekeken naar bol.com klanstenservice, Amazon, Whatsapp, Apple klantenservice en een aantal YouTube socket.io tutorials. Ik heb van all deze bronnen screen shots gemaakt en in een bestand XD bestand gezet.
+Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op basis van de huisstijl van de opdrachtgever: Coding the Curbs. Eerst ben ik op andere websites inspiratie gaan zoeken, ik heb hiervoor gekeken naar bol.com klanstenservice, Amazon, Whatsapp, Apple klantenservice en een aantal YouTube socket.io tutorials. Ik heb van al deze bronnen screen shots gemaakt en in een bestand XD bestand gezet.
 
 ## ✏️ Papieren versie & Breakdown schetsen
 Vervolgens ben ik op basis van all die bronnen gaan schetsen op papier.
