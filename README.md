@@ -1,9 +1,9 @@
 # 📲 Connect the People - Chat ontwerpen
-In deze opdracht heb ik een aantal schetsen gemaakt in de huistijl van de opdrachtgever: Chippr.dev. Ik heb eerst op dribble.com inspiratie gezocht en ben hierna gaan schetsen op papier. Toen ik eenmaal een goed idee had staan op papier ben ik deze digitaal gaan uitwerken, tot slot heb ik hier 10 variaties op bedacht.
-
-Hieronder staan verschillende foto's en schermafbeeldingen die verschillende versies van de Chippr.dev Chat app laten zien.
+Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op bassis van de huisstijl van de opdrachtgever: Coding the Curbs. Eerst ben ik op andere websites inspiratie gaan zoeken, Ik heb hiervoor gekeken naar bol.com klanstenservice, Amazon, Whatsapp, Apple klantenservice en een aantal YouTube socket.io tutorials. Ik heb van all deze bronnen screen shots gemaakt en in een bestand XD bestand gezet.
 
 ## ✏️ Papieren Schetsen
+Vervolgens ben ik op basis van all die bronnen gaan schetsen op papier.
+
 
 ## 🖥 Adobe XD Schetsen
 ### Schets 1 & 2
