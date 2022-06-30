@@ -15,10 +15,13 @@ Op deze versie heb geprobeerd mijn code te schetsen, hierdoor kan ik gemakkelijk
 ## 🖥 Adobe XD Schetsen
 ### Schets 1 & 2
 ![afbeelding Schets 1 & 2](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel1v2.png)
-
+In  ```Versie 1``` heb ik geprobeerd om mij breakdown schets in XD te maken.
+In  ```Versie 2``` heb ik geëxperimenteerd met hiërarchie, door middel van kleur.
 
 ### Schets 3 & 4
 ![afbeelding Schets 3 & 4](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel2.png)
+In  ```Versie 3``` heb ik geëxperimenteerd met hiërarchie, door middel van uitlijning.
+In  ```Versie 4``` heb ik geëxperimenteerd met hiërarchie, door middel van grote en uitlijning.
 
 ### Schets 5 & 6
 ![afbeelding Schets 5 & 6](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/deel3.png)
