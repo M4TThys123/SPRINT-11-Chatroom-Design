@@ -3,9 +3,14 @@ Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op bas
 
 ## ✏️ Papieren versie & Breakdown schetsen
 Vervolgens ben ik op basis van all die bronnen gaan schetsen op papier.
+### Zero State schets
 ![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/schets1.jpg)
+Op deze schets heb ik mij laten inspireren door het chat systeem van Instagram, hierbij is het mogelijk om te chatten met meerder personen tergleikertijd. Voor de opdrachtgever is het nodig om 1 op 1 live te kunnen chatten. 
 
+### Breakdonwn schets
 ![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/breakdown.JPG)
+Op deze versie heb geprobeerd mijn code te schetsen, hierdoor kan ik gemakkelijk & snel mijn code schrijven.
+
 
 ## 🖥 Adobe XD Schetsen
 ### Schets 1 & 2
