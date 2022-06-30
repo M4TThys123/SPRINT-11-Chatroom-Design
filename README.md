@@ -3,9 +3,9 @@ Voor deze opdracht heb ik een aantal papieren & digitale schetsen gemaakt op bas
 
 ## ✏️ Papieren versie & Breakdown schetsen
 Vervolgens ben ik op basis van all die bronnen gaan schetsen op papier.
-![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/asset/schets1.jpg)
+![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/schets1.jpg)
 
-![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/asset/breakdown.JPG)
+![afbeelding papieren Schets](https://github.com/M4TThys123/SPRINT-11-Chatroom-Design/blob/main/assets/breakdown.JPG)
 
 ## 🖥 Adobe XD Schetsen
 ### Schets 1 & 2
